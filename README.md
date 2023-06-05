@@ -8,7 +8,7 @@ Just a simple Youtube Music Tauri app to not have to launch a heavy Web browser 
 
 ## A note about webkit2gtk
 
-I discovered while doing this little project that ``webkit2gtk`` [is unable to launch a video](https://github.com/tauri-apps/tauri/issues/6512), so this app won't work on Windows. People that use MacOS would be pleased to tell me if it works on their OS.
+I discovered while doing this little project that ``webkit2gtk`` [is unable to launch a video](https://github.com/tauri-apps/tauri/issues/6512), so this app won't work on Linux/*BSD. People that use MacOS would be pleased to tell me if it works on their OS.
 
 ## Licensing
 
